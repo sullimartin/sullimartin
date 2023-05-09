@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sullivan Martin</h1>
-<h3 align="center">A passionate full Stack developer from Barcelona</h3>
+<h3 align="center">A passionate script kiddie from Barcelona</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuusulli&label=Profile%20views&color=0e75b6&style=flat" alt="shuusulli" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shuusulli" target="blank"><img src="https://img.shields.io/twitter/follow/shuusulli?logo=twitter&style=for-the-badge" alt="shuusulli" /></a> </p>
 
-- 🌱 I’m currently learning **to be a better developer.**
+- 🌱 I’m currently learning **to be a better white hat hacker.**
 
 - 📫 How to reach me **sulli.martin@gmail.com**
 
