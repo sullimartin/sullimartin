@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shuusulli" target="blank"><img src="https://img.shields.io/twitter/follow/shuusulli?logo=twitter&style=for-the-badge" alt="shuusulli" /></a> </p>
 
-- 🌱 I’m currently learning **cybersecurities techonolies**
+- 🌱 I’m currently learning **reversing**
 
 - 🤝 I’m looking for help with **Any cybersecurity and malware analysis project**
 
