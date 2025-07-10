@@ -1,5 +1,31 @@
 # 💫 About Me:
-# 👋 Hello! I'm Sullivan Martin<br>**Systems Engineer** with strong expertise in **Python, Bash, C++**, virtualization, cloud, monitoring, networking, security, reversing, and **Odoo Community**.<br><br>## 🔍 What I Do<br>- I work at **Semicro – UPC** as a **Level 1 SOC and Monitoring Analyst**, where I analyze alerts, manage incidents, and enhance observability.<br>- I’m learning and applying various **Odoo Community** tools, developing modules and configuring workflows.<br><br>## 🧰 My Technical Skills<br>- **Languages**: Python, Bash, C++<br>- **Security / Reversing**: binary analysis, using tools like GDB, radare2, Wireshark, etc.<br>- **Infrastructure**: virtual environments, cloud (AWS/GCP), monitoring systems (Prometheus, Grafana, Zabbix…)<br>- **Odoo**: installation, configuration, module development, and workflow automation.<br><br>## 📂 Key Projects<br>- **🔐 Sec‑Toolbox** – Python/Bash scripts for automating network anomaly detection.<br>- **🔄 Odoo‑Learn** – a repository to experiment with Odoo modules (inventory, sales, integrations).<br>- **🐍 Reversing‑C** – C/C++ reversing exercises to understand low‑level calls (stack, heap, etc.).<br><br>## 🌱 Currently Learning<br>- Deepening my knowledge of Odoo Community modules (sales, inventory, accounting).<br>- Automating monitoring pipelines in cloud environments.<br>- Participating in security communities (CTFs, forums, GitHub).<br><br>## 🤝 Want to Collaborate?<br>I'm always looking to contribute to open-source projects in security, networking, or Odoo. Let’s connect!<br><br>
+## 👋 Hello! I'm Sullivan Martin
+**Systems Engineer** with strong expertise in **Python, Bash, C++**, virtualization, cloud, monitoring, networking, security, reversing, and **Odoo Community**.
+
+## 🔍 What I Do
+- I work at **Semicro – UPC** as a **Level 1 SOC and Monitoring Analyst**, where I analyze alerts, manage incidents, and enhance observability.
+- I’m learning and applying various **Odoo Community** tools, developing modules and configuring workflows.
+
+## 🧰 My Technical Skills
+- **Languages**: Python, Bash, C++
+- **Security / Reversing**: binary analysis, using tools like GDB, radare2, Wireshark, etc.
+- **Infrastructure**: virtual environments, cloud (AWS/GCP), monitoring systems (Prometheus, Grafana, Zabbix…)
+- **Odoo**: installation, configuration, module development, and workflow automation.
+
+## 📂 Key Projects
+- **🔐 Sec‑Toolbox** – Python/Bash scripts for automating network anomaly detection.
+- **🔄 Odoo‑Learn** – a repository to experiment with Odoo modules (inventory, sales, integrations).
+- **🐍 Reversing‑C** – C/C++ reversing exercises to understand low‑level calls (stack, heap, etc.).
+
+## 🌱 Currently Learning
+- Deepening my knowledge of Odoo Community modules (sales, inventory, accounting).
+- Automating monitoring pipelines in cloud environments.
+- Participating in security communities (CTFs, forums, GitHub).
+
+## 🤝 Want to Collaborate?
+I'm always looking to contribute to open-source projects in security, networking, or Odoo. Let’s connect!
+
+
 
 
 ## 🌐 Socials:
