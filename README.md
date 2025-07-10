@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sullivan "shuusulli" Martin</h1>
+<h1 align="center">Hi 👋, I'm Sullivan Martin</h1>
 <h3 align="center">A lifelong script kiddie and reversing enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuusulli&label=Profile%20views&color=0e75b6&style=flat-square" alt="shuusulli" /> </p>
